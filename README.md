@@ -5,7 +5,7 @@ pip install -r requirements.txt
 
 ## 📌 ***Principais Objetivos***
 - Fazer um chatbot utilizadno Rasa
-- E reconhecimento facial utilizando python
+- E reconhecimento facial utilizando python com as bibliotecas específicas.
 
 ## 🖱 ***Pré-requisitos***
 - Python: 3.8.10
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
  O chatbot foi desenvolvido em Rasa e utilizando Python e o principal objetivo é fazer o reconhecimento facil e de olho, conforme as imagens.
 
-<div align=center><img src="https://github.com/GustavoMarcello/DesafioD1/blob/main/src/img/Chatbot%201%20MooVIE.png" style="width:300px;height:550px;"/>  <img src="http://3.bp.blogspot.com/-NJL-u0nj64A/VXN8nweH01I/AAAAAAAADJA/3q7gY1ggg6s/s1600/face_details.png" style="width:300px;height:550px;"/></div>
+<div align=center><img src="https://github.com/JoiceF89/Rasa-Reconhecimento-Facial/blob/main/img/tela1.PNG" style="width:350px;height:450px;"/>  <img src="http://3.bp.blogspot.com/-NJL-u0nj64A/VXN8nweH01I/AAAAAAAADJA/3q7gY1ggg6s/s1600/face_details.png" style="width:350px;height:450px;"/></div>
 
 
 ## 📚 Como utilizar
