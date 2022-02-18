@@ -1,0 +1,13 @@
+version: "2.0"
+
+rules:
+- rule: greet
+  steps:
+  - intent: greet
+  - action: utter_greet
+  
+- rule: tchau
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+

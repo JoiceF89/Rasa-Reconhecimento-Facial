@@ -1,0 +1,17 @@
+version: "2.0"
+
+stories:
+  - story: greet, affirm
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: affirm
+      - action: action_reconhecimento 
+
+  - story: greet, deny
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: deny
+      - action: utter_goodbye
+
